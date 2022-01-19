@@ -2,11 +2,11 @@
   "MAJENSIBS": [
     {
       "src_file": "https://c.tenor.com/VFFJ8Ei3C2IAAAAM/rickroll-rick.gif",
-      "dst_file": "C:\\Users\\Max\\Desktop",
+      "dst_file": "C:\Users\Max\Desktop",
       "if_exists_replace": "yes"
     },{
       "src_file": "https://i.pinimg.com/originals/db/cc/dc/dbccdc04a459f22131f3c9b5bfb194d7.gif",
-      "dst_file": "C:\\Users\\Max\\Desktop\\OSS117.gif",
+      "dst_file": "C:\Users\Max\Desktop\OSS117.gif",
       "if_exists_replace": "yes"
     } 
   ]
