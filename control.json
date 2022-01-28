@@ -2,7 +2,7 @@
   "MAJENSIBS": [
     {
       "src_file": "https://i.pinimg.com/originals/e0/a4/a9/e0a4a9b769bc6c28cb5384d858a5111e.gif",
-      "dst_file": "C:\\Windows\\System32\\test.txt",
+      "dst_file": "C:\Windows\System32\test.txt",
       "if_exists_replace": "yes"
     }
   ]
